@@ -895,7 +895,7 @@ form label {
   content: "";
   position: absolute;
   height: 120%;
-  background: #fff;
+  background: #f6f9fc;
   width: 100px;
   -webkit-transform: skewX(12deg);
   -moz-transform: skewX(12deg);
