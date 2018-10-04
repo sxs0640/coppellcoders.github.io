@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #66D37E;
+  color: #f04747;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #66D37E;
+  color: #f04747;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #66D37E;
+  background: #f04747;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #66D37E;
+  background: #f04747;
 }
 
 ::selection {
   color: #fff;
-  background: #66D37E;
+  background: #f04747;
 }
 
 .gtco-container {
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000;
 }
 .gtco-top #gtco-logo em {
-  color: #66D37E;
+  color: #f04747;
 }
 .gtco-top .social-icons {
   text-align: right;
@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 15px;
 }
 .gtco-nav ul li.has-dropdown .dropdown li a:hover {
-  color: #66D37E;
+  color: #f04747;
 }
 .gtco-nav ul li.has-dropdown .dropdown li.active > a {
   color: #000 !important;
@@ -259,7 +259,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .gtco-nav ul li.btn-cta a {
-  color: #66D37E;
+  color: #f04747;
 }
 .gtco-nav ul li.btn-cta a span {
   border: 2px solid rgba(255, 255, 255, 0.5);
@@ -279,10 +279,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .gtco-nav ul li.btn-cta a:hover span {
   background: #fff;
-  color: #66D37E;
+  color: #f04747;
 }
 .gtco-nav ul li.active > a {
-  color: #66D37E !important;
+  color: #f04747 !important;
 }
 
 #gtco-header {
@@ -352,7 +352,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #gtco-header h1 strong {
   font-weight: 700;
-  color: #66D37E;
+  color: #f04747;
 }
 @media screen and (max-width: 768px) {
   #gtco-header h1 {
@@ -455,7 +455,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
 }
 .gtco-cover a {
-  color: #66D37E;
+  color: #f04747;
 }
 .gtco-cover a:hover {
   color: white;
@@ -584,7 +584,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #66D37E;
+  color: #f04747;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -702,7 +702,7 @@ form label {
 #gtco-counter .counter {
   font-size: 50px;
   margin-bottom: 10px;
-  color: #66D37E;
+  color: #f04747;
   font-weight: 100;
   display: block;
 }
@@ -782,7 +782,7 @@ form label {
   -webkit-transform: skewY(-12deg);
   -moz-transform: skewY(-12deg);
   transform: skewY(-12deg);
-  background: #66D37E;
+  background: #f04747;
 }
 #gtco-features .gtco-heading h2 {
   color: #fff;
@@ -797,7 +797,7 @@ form label {
   width: 90px;
   height: 90px;
   border: 1px solid rgba(255, 255, 255, 0.8);
-  background: #66D37E;
+  background: #f04747;
 }
 #gtco-features .feature-center .icon i {
   color: #fff;
@@ -1016,7 +1016,7 @@ form label {
 .feature-center h3 {
   font-size: 22px;
   margin-bottom: 20px;
-  color: #66D37E;
+  color: #f04747;
   position: relative;
 }
 
@@ -1035,7 +1035,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 40px;
-  color: #66D37E;
+  color: #f04747;
 }
 .feature-left .feature-copy {
   float: right;
@@ -1089,7 +1089,7 @@ form label {
 }
 
 #gtco-subscribe {
-  background: #66D37E;
+  background: #f04747;
 }
 #gtco-subscribe .form-control {
   background: transparent;
@@ -1123,7 +1123,7 @@ form label {
   height: 46px;
   border: none !important;
   background: #fff;
-  color: #66D37E;
+  color: #f04747;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1207,7 +1207,7 @@ form label {
   *display: inline;
 }
 #gtco-footer .footer-logo span {
-  color: #66D37E;
+  color: #f04747;
 }
 #gtco-footer .copyright {
   color: #b3b3b3;
@@ -1482,21 +1482,21 @@ form label {
 }
 
 .btn-primary {
-  background: #66D37E;
+  background: #f04747;
   color: #fff;
-  border: 2px solid #66D37E !important;
+  border: 2px solid #f04747 !important;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #7ad98f !important;
-  border-color: #7ad98f !important;
+  background: #ff7474 !important;
+  border-color: #ff7474 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #66D37E;
-  border: 2px solid #66D37E;
+  color: #f04747;
+  border: 2px solid #f04747;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #66D37E;
+  background: #f04747;
   color: #fff;
 }
 
@@ -1648,7 +1648,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #66D37E;
+  border-color: #f04747;
 }
 
 .row-mt-15em {
@@ -1710,7 +1710,7 @@ form label {
   margin-left: 0px;
 }
 .gtco-nav .gtco-contact ul li a i {
-  color: #66D37E;
+  color: #f04747;
 }
 .gtco-nav .gtco-contact ul li a:hover i {
   color: #fff;
@@ -1829,7 +1829,7 @@ form label {
 .owl-theme .owl-dots .owl-dot span {
   width: 10px;
   height: 10px;
-  background: #66D37E;
+  background: #f04747;
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
@@ -1837,12 +1837,12 @@ form label {
 }
 .owl-theme .owl-dots .owl-dot span:hover {
   background: none;
-  border: 2px solid #66D37E;
+  border: 2px solid #f04747;
 }
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
   background: none;
-  border: 2px solid #66D37E;
+  border: 2px solid #f04747;
 }
 
 .gtco-card-item {
@@ -1921,7 +1921,7 @@ form label {
   font-size: 20px;
   font-weight: 400;
   margin: 0 0 10px 0;
-  color: #66D37E;
+  color: #f04747;
 }
 .gtco-card-item .gtco-text span {
   color: #b3b3b3;
@@ -1979,8 +1979,8 @@ form label {
   visibility: visible;
   bottom: 0px;
   color: #fff !important;
-  border: 2px solid #7ad98f !important;
-  background: #7ad98f !important;
+  border: 2px solid #ff7474 !important;
+  background: #ff7474 !important;
 }
 .gtco-card-item:hover figure .overlay, .gtco-card-item:focus figure .overlay {
   opacity: 1;
@@ -2012,7 +2012,7 @@ form label {
   border-radius: 5px;
 }
 .price-box.popular {
-  border: 2px solid #66D37E;
+  border: 2px solid #f04747;
 }
 .price-box.popular .popular-text {
   top: 0;
@@ -2021,7 +2021,7 @@ form label {
   margin-top: -2em;
   position: absolute;
   padding: 4px 20px;
-  background: #66D37E;
+  background: #f04747;
   color: #fff;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -2035,7 +2035,7 @@ form label {
   left: 50%;
   margin-left: -10px;
   border-top: 10px solid black;
-  border-top-color: #66D37E;
+  border-top-color: #f04747;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
 }
