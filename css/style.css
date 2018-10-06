@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::selection {
   color: #fff;
-  background: #f04747;
+  background: #1f1f1f;
 }
 
 .gtco-container {
@@ -1868,7 +1868,7 @@ form label {
   transition: 0.3s;
 }
 .gtco-card-item figure {
-  height: 240px;
+  height: 170px;
   overflow: hidden;
   z-index: 12;
   position: relative;
